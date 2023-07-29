@@ -19,6 +19,6 @@ Analyzing the outcomes of shared governance, I believe in the power of working t
 Beyond my professional life, **family** takes precedence. The shared time with my children and pets, whether indoors or outdoors, is invaluable. Volunteering is another passion of mine, as it fosters a sense of purpose and community.
 
 ### **A Taste of Culture**
-Being a resident of Southern California, I relish the area's cultural diversity — its people, landscapes, and foods. Despite its contrast to my original home, I've grown fond of it. I still, however, carry a part of my Southern heritage with me, manifesting in the food I cook and the authors I read.
+Being a resident of Southern California, I love the area's cultural diversity — its people, landscapes, and foods. It's different from my original home; I've grown fond of it. But I carry a part of my Southern heritage with me, manifesting in the food I cook and the authors I read.
 
 ---
