@@ -1,4 +1,8 @@
-# Hi, I’m **@dadams-AU**
+# Hi, I’m dadams!
+
+I'm a social scientist and an associate professor of public administration at California State University, Fullerton. I'm interested in adaptive institutions and structures for natural resource governance, particularly water governance and policy. For a number of years I've studied stakeholder engagment in collaborative institutions and the impact on water quality.
+
+My interests are moving to the integration of blockchain, IoT, and open-source technology has the potential to revolutionize water resource governance. By enhancing transparency, collaboration, efficiency, adaptability, and decentralization, these technologies align well with what I've learned about adaptive management and polycentric governance. Such an approach could lead to more resilient, equitable, and sustainable water management practices, addressing complex challenges in a rapidly changing world.
 
 - **Interested in**: Collaborative governance, research, quantitative analysis
 - **Currently Learning and Improving**: Python, R, HTML, CSS
@@ -8,8 +12,6 @@
 
 ---
 
-# **About Me**
-> _"I teach because I like it. The students are eager and full of ideas. We learn together..."_
 
 You can find my organization's page [@CSUF-MPA](https://github.com/CSUF-MPA) with some resources related to my work.
 
