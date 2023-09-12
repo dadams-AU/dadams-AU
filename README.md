@@ -8,7 +8,7 @@ My interests are moving to the integration of blockchain, IoT, and open-source t
 - **Currently Learning and Improving**: Python, R, HTML, CSS 💻
 - **Looking to Collaborate on**: Research and explorations in econometrics, web development 🤝
 - **Currently Reading**: _Race and Social Equity_ by Gooden 📖
-- **Reach me at**: david@dadams.site or [LinkedIn](https://www.linkedin.com/in/dadamscsuf/)
+- **Reach me at**: david@dadams.io or [LinkedIn](https://www.linkedin.com/in/dadamscsuf/)
 
 
 ---
