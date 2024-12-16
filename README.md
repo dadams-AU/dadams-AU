@@ -1,14 +1,27 @@
-# Hi, I’m dadams! 👋
+# Hi, I’m David Adams! 👋  
 
-I'm a social scientist and associate professor of public administration. 🎓 I'm interested in adaptive institutions and structures for natural resource governance, particularly water governance and policy. 💧 For a number of years, I've studied stakeholder engagement in collaborative institutions and the impact on water quality.
-
-- **Interested in**: Collaborative governance, research, quantitative analysis 📊
-- **Currently Learning and Improving**: Rust, Python, R, PostgreSQL, HTML, CSS 💻
-- **Looking to Collaborate on**: Research and explorations in econometrics, web development 🤝
-- **Currently Reading**: _The Power Broker_ 📖
-- **Reach me at**: david@dadams.io or [LinkedIn](https://www.linkedin.com/in/dadamscsuf/)
-
+I’m a **social scientist** and an **associate professor of public administration** passionate about **adaptive institutions** and **natural resource governance**, particularly in **water policy**. 💧 Over the years, my research has focused on **collaborative institutions**, stakeholder engagement, and their impact on **water quality outcomes**.  
 
 ---
 
-You can find my organization's page [@CSUF-MPA](https://github.com/CSUF-MPA) with some resources related to my work.
+### 🔍 **What I’m Interested In**  
+- Collaborative governance  
+- Applied research & quantitative analysis 📊  
+- Adaptive policy structures for resource governance  
+
+### 🚀 **What I’m Learning & Improving**  
+- Programming: **Rust**, **Python**, **R**  
+- Databases & Web Development: **PostgreSQL**, **HTML**, **CSS**  
+
+### 🤝 **Looking to Collaborate On**  
+- Explorations in **econometrics** & data-driven policy analysis  
+- Projects that merge **public policy** with modern web development  
+
+### 📚 **Currently Reading**  
+*The Power Broker* by Robert A. Caro 📖  
+
+---
+
+### 🌐 **Let’s Connect**  
+- **Email**: [david@dadams.io](mailto:david@dadams.io)  
+- **LinkedIn**: [linkedin.com/in/dadamscsuf](https://www.linkedin.com/in/dadamscsuf/)  
