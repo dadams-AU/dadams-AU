@@ -1,24 +1,32 @@
-# Hi, I’m David Adams! 👋  
+## Hi, I’m David Adams 👋
 
-I’m a **social scientist** and an **associate professor of public administration** passionate about **adaptive institutions** and **natural resource governance**, particularly in **water policy**. 💧 Over the years, my research has focused on **collaborative institutions**, stakeholder engagement, and their impact on **water quality outcomes**.  
+I’m an **Associate Professor of Public Administration** working at the intersection of **collaborative governance**, **environmental policy**, and **data-driven public management**. I’m currently expanding my dissertation into a book on **adaptive collaboration** and institutional design in natural resource governance. 🌿💧
+
+Right now, I’m building out a **hypothesis model of collaboration**, analyzing large datasets on **California Climate Investments** and **Pennsylvania oil and gas inspections**, and using spatial data to explore patterns in **GHG reduction, equity, and regulatory oversight**.
 
 ---
 
-### 🔍 **What I’m Interested In**  
-- Collaborative governance  
-- Applied research & quantitative analysis 📊  
-- Adaptive policy structures for resource governance  
+### 🔬 **Current Projects**  
+- Writing a book on **collaboration and environmental governance**  
+- Modeling stakeholder networks & adaptive institutions  
+- Analyzing state-level datasets (CA & PA) using **PostGIS**, **Python**, and **R**  
 
-### 🚀 **What I’m Learning & Improving**  
-- Programming: **Rust**, **Python**, **R**  
-- Databases & Web Development: **PostgreSQL**, **HTML**, **CSS**  
+### 🛠️ **Tools & Tech I’m Using**  
+- **PostgreSQL + PostGIS** for spatial analysis  
+- **Python**, **R**, and **Rust** for data modeling & automation  
+- Exploring **efficient web-based visualizations** for public policy  
 
-### 🤝 **Looking to Collaborate On**  
-- Explorations in **econometrics** & data-driven policy analysis  
-- Projects that merge **public policy** with modern web development  
+### 🤝 **Collaborating On**  
+- Empirical tests of collaborative governance models  
+- Equity analysis and implementation outcomes in state climate policy  
+- Bringing modern dev tools into **policy education & research**  
 
 ### 📚 **Currently Reading**  
-*The Power Broker* by Robert A. Caro 📖  
+*The Overstory* by Richard Powers — a novel about trees, time, and connection -- a different kind of systems thinking.
+
+---
+
+Want me to suggest something nonfiction or lighter if you’ve already read that one or want options?
 
 ---
 
