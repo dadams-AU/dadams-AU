@@ -26,10 +26,6 @@ Right now, I’m building out a **hypothesis model of collaboration**, analyzing
 
 ---
 
-Want me to suggest something nonfiction or lighter if you’ve already read that one or want options?
-
----
-
 ### 🌐 **Let’s Connect**  
 - **Email**: [david@dadams.io](mailto:david@dadams.io)  
 - **LinkedIn**: [linkedin.com/in/dadamscsuf](https://www.linkedin.com/in/dadamscsuf/)  
