@@ -2,7 +2,7 @@
 
 I’m an **Associate Professor of Public Administration** working at the intersection of **collaborative governance**, **environmental policy**, and **data-driven public management**. I’m currently expanding my dissertation into a book on **adaptive collaboration** and institutional design in natural resource governance. 🌿💧
 
-Right now, I’m building out a **hypothesis model of collaboration**, analyzing large datasets on **California Climate Investments** and **Pennsylvania oil and gas inspections**, and using spatial data to explore patterns in **GHG reduction, equity, and regulatory oversight**.
+Right now, I’m building out a **hypothesis model of collaboration**, analyzing large datasets on **California Climate Investments** and **oil and gas inspections** in **Texas, Pennsylvania, and Colorado**, and using spatial data to explore patterns in **GHG reduction, equity, and regulatory oversight**.
 
 ---
 
