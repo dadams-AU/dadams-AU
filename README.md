@@ -1,31 +1,30 @@
-## Hi, I’m David Adams 👋
+## Hi, I'm David Adams 👋
 
-I’m an **Associate Professor of Public Administration** working at the intersection of **collaborative governance**, **environmental policy**, and **data-driven public management**. I’m currently working a book on **collaboration** and institutional design in natural resource governance. 🌿💧
+I'm an **Associate Professor of Public Administration** working at the intersection of **collaborative governance**, **environmental policy**, and **data-driven public management**. I'm currently pursuing an **MS in GIS** (Johns Hopkins, via a Mellon Foundation New Directions Fellowship) to push my methods toward spatial analysis and geocomputation. 🌿🗺️
 
-Right now, I’m building out a **hypothesis model of collaboration**, analyzing large datasets on **California Climate Investments** and **oil and gas inspections** in **Texas, Pennsylvania, and Colorado**, and using spatial data to explore patterns in **GHG reduction, equity, and regulatory oversight**.
-
----
-
-### 🔬 **Current Projects**  
-- Writing a book on **collaboration and environmental governance**  
-- Modeling stakeholder networks & adaptive institutions  
-- Analyzing state-level datasets (CA & PA) using **PostGIS**, **Python**, and **R**  
-
-### 🛠️ **Tools & Tech I’m Using**  
-- **PostgreSQL + PostGIS** for spatial analysis  
-- **Python**, **R**, and **Rust** for data modeling & automation  
-- Exploring **efficient web-based visualizations** for public policy  
-
-### 🤝 **Collaborating On**  
-- Empirical tests of collaborative governance models  
-- Equity analysis and implementation outcomes in state climate policy  
-- Bringing modern dev tools into **policy education & research**  
-
-### 📚 **Currently Reading**  
-*The Overstory* by Richard Powers — a novel about trees, time, and connection -- a different kind of systems thinking.
+Right now I'm building a **PostGIS database of U.S. data centers** — siting, governance, regulatory environments, and public opposition — alongside ongoing work on **oil and gas regulatory enforcement** and **collaborative governance in natural resource management**.
 
 ---
 
-### 🌐 **Let’s Connect**  
-- **Email**: [david@dadams.io](mailto:david@dadams.io)  
-- **LinkedIn**: [linkedin.com/in/dadamscsuf](https://www.linkedin.com/in/dadamscsuf/)  
+### 🔬 **Current Projects**
+- Multi-institutional research on **data center siting, governance, and public opposition** (Narrative Policy Framework analysis of public participation records, NVivo coding, PostGIS)
+- **NIJ-funded study** on real-time crime centers and drone-as-first-responder programs across Orange County law enforcement agencies
+- Predictive modeling of **orphaned oil & gas wells** using gradient boosting (AWS Agentic AI collaboration)
+- Writing on **disclosure and enforcement** in fossil fuel extraction (Texas, Colorado, Pennsylvania)
+
+### 🛠️ **Tools & Tech I'm Using**
+- **PostgreSQL + PostGIS** for spatial analysis and database design
+- **Python** and **R** for data modeling, NLP, and automation
+- **QGIS** and geocomputation workflows (current GIS coursework)
+- Self-hosted infrastructure (Arch Linux, Docker) for research tooling and local LLM experimentation
+
+### 🤝 **Collaborating On**
+- Empirical tests of collaborative governance models in environmental policy
+- Spatial and narrative analysis of public participation in infrastructure siting
+- Bringing modern data science tools into **policy education & research**
+
+---
+
+### 🌐 **Let's Connect**
+- **Email**: [david@dadams.io](mailto:david@dadams.io)
+- **LinkedIn**: [linkedin.com/in/dadamscsuf](https://www.linkedin.com/in/dadamscsuf/)
